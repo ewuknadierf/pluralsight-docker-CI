@@ -9,3 +9,4 @@ Super-simple Node web app for containerization demos
 3. Build Docker iamge `docker image build -t <tag> .` from within the root directory of the repo 
 4. Push image to container registry
 5. Run container/Pod using the created image
+6. Test
